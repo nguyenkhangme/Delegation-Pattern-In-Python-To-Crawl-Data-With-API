@@ -46,6 +46,8 @@ I have a demonstration in [this repo](https://github.com/comphilano/ds_final/blo
 
  :loudspeaker: **Up-to-date: 07/10/2022**
 
+ [How to use the crawler](https://github.com/comphilano/ds_final#crawler)
+
 ### Artstation
 
 :bulb: TODO: This is the code from November 2021, now October 2022, for some reason, looks like it crawls all the data available with `per_page = 3, max_page=1`, so:
