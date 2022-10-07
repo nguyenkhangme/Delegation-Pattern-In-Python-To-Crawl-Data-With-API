@@ -1,6 +1,9 @@
 # Mac
 .DS_STORE
 
+#API Key
+Check.ipynb
+
 #Jupyter Notebook
 .ipynb_checkpoints
 
