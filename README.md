@@ -42,6 +42,8 @@ I have a demonstration in [this repo](https://github.com/comphilano/ds_final/blo
 
 ## Application
 
+:warning: **You should change the request headers (`self.headers`) on file `APIService.ipynb` to match yours.**
+
 ### Shopee
 
  :loudspeaker: **Up-to-date: 07/10/2022**
