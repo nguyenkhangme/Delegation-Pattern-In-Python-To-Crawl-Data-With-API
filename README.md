@@ -1,6 +1,6 @@
-# Delegation Pattern In Python To Crawl Data With API
+>  An effective way is widely used in the mobile development sector to build APIService, which I now bring to the data-related sector.
 
- An effective way is widely used in the mobile development sector to build APIService, which I now bring to the data-related sector.
+# Delegation Pattern In Python To Crawl Data With API
 
  - [Delegation Pattern In Python To Crawl Data With API](#delegation-pattern-in-python-to-crawl-data-with-api)
   - [The problem it solved](#the-problem-it-solved)
@@ -17,7 +17,7 @@
 ## The problem it solved
 
 - Crawl data easily
-- Collect any possible data you want (check robots.txt to make sure you are not violent with any rules), even Tinder!
+- Collect any possible data you want, even Tinder! (check robots.txt to make sure you are not violent with any rules)
 - Wide range use
 
 ## Knowledge Base
