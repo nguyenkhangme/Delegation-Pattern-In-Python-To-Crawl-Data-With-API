@@ -48,7 +48,11 @@ I have a demonstration in [this repo](https://github.com/comphilano/ds_final/blo
 
  [How to use the crawler](https://github.com/comphilano/ds_final#crawler)
 
+Go to the Shopee [folder](application/shopee).
+
 ### Artstation
+
+Go to the Artstation [folder](application/artstation).
 
 :bulb: TODO: This is the code from November 2021, now October 2022, for some reason, looks like it crawls all the data available with `per_page = 3, max_page=1`, so:
 
@@ -60,5 +64,7 @@ I have a demonstration in [this repo](https://github.com/comphilano/ds_final/blo
 Should I publish it 🤔
 
 ### Pexels
+
+Go to the Pexels [folder](application/Pexels).
 
 Not done yet! Now it works on a JSON file you already downloaded, use the function on `GetData`, need to change the APIService.
