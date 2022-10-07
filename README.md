@@ -1,4 +1,8 @@
-![banner](img/banner.png)
+<p align="center">
+  <br />
+    <a title="banner" href="#"><img width="600px" src="img/banner.png" alt="banner" /></a>
+  <br/>
+</p>
 
 > An effective way is widely used in the mobile development sector to build APIService, which I now bring to the data-related sector.
 
