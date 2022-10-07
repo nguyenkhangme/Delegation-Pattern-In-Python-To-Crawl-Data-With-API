@@ -1,8 +1,10 @@
->  An effective way is widely used in the mobile development sector to build APIService, which I now bring to the data-related sector.
+![banner](img/banner.png)
+
+> An effective way is widely used in the mobile development sector to build APIService, which I now bring to the data-related sector.
 
 # Delegation Pattern In Python To Crawl Data With API
 
- - [Delegation Pattern In Python To Crawl Data With API](#delegation-pattern-in-python-to-crawl-data-with-api)
+- [Delegation Pattern In Python To Crawl Data With API](#delegation-pattern-in-python-to-crawl-data-with-api)
   - [The problem it solved](#the-problem-it-solved)
   - [Knowledge Base](#knowledge-base)
     - [Catch that API call](#catch-that-api-call)
