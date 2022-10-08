@@ -23,6 +23,8 @@
 ## The problem it solved
 
 - Crawl data easily
+- Sync
+- Code be clear
 - Collect any possible data you want, even Tinder! (check robots.txt, the license page,... to make sure you are not violent with any rules)
 - Wide range use
 
