@@ -23,14 +23,31 @@
 ## The problem it solved
 
 - Crawl data easily
-- Collect any possible data you want, even Tinder! (check robots.txt to make sure you are not violent with any rules)
+- Collect any possible data you want, even Tinder! (check robots.txt, the license page,... to make sure you are not violent with any rules)
 - Wide range use
 
 ## Knowledge Base
 
 ### Catch that API call
 
-I have a demonstration in [this repo](https://github.com/comphilano/ds_final/blob/main/Slide.pdf) (Crawl data section).
+:warning: Make sure you check robots.txt, the license page,... to not be violent with any rules.
+
+The demonstration is from [this repo](https://github.com/comphilano/ds_final/blob/main/Slide.pdf) (Crawl data section).
+
+Here I demonstrate how to catch Shopee API, you could use the same technique for every other site:
+
+![](img/catch-that-API-call/Slide_ds_final%209.png)
+![](img/catch-that-API-call/Slide_ds_final%2010.png) 
+![](img/catch-that-API-call/Slide_ds_final%2011.png) 
+![](img/catch-that-API-call/Slide_ds_final%2012.png) 
+![](img/catch-that-API-call/Slide_ds_final%2013.png) 
+![](img/catch-that-API-call/Slide_ds_final%2014.png) 
+![](img/catch-that-API-call/Slide_ds_final%2015.png) 
+![](img/catch-that-API-call/Slide_ds_final%2016.png) 
+![](img/catch-that-API-call/Slide_ds_final%2017.png) 
+![](img/catch-that-API-call/Slide_ds_final%2018.png)
+![](img/catch-that-API-call/Slide_ds_final%2019.png) 
+![](img/catch-that-API-call/Slide_ds_final%2020.png)
 
 ### Delegation Pattern
 
