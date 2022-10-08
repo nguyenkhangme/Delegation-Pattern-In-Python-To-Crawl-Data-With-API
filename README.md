@@ -33,7 +33,7 @@
 
 - Artstation & Pexels: Useful on computer vision tasks
 - Shopee: See [this repo](https://github.com/comphilano/ds_final/)
-- Tinder: Know yourself better, see [more](#tinder)
+- Tinder: See [here](#tinder)
 
 ## Knowledge Base
 
