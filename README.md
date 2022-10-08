@@ -8,7 +8,15 @@
 
 # Delegation Pattern In Python To Crawl Data With API
 
-<p align="center"><font size="18">📖 <a href = "https://github.com/Al3927/Delegation-Pattern-In-Python-To-Crawl-Data-With-API/wiki">Wiki</a></font></p>
+<p align="center">
+  <br />
+    <font size="18">
+      <a href = "https://github.com/Al3927/Delegation-Pattern-In-Python-To-Crawl-Data-With-API/wiki">
+      📖 Wiki Page
+      </a>
+    </font>
+  <br/>
+</p>
 
 - [Delegation Pattern In Python To Crawl Data With API](#delegation-pattern-in-python-to-crawl-data-with-api)
   - [The problem it solved](#the-problem-it-solved)
