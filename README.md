@@ -88,7 +88,7 @@ Go to the Artstation [folder](application/artstation).
 
 ### Tinder
 
-There are some scenarios you need the Tinder crawl tool. Mostly while you have thousands of matches waiting for you to text them on Tinder.
+There are some scenarios you need the Tinder crawl tool. Mostly while you have thousands of matches waiting for you to text them on Tinder. A possible scenario is you would want to see more insight about yourself that you may not know before, such as which traits of people will attract you most.
 
 I will publish the code later 🤔
 
