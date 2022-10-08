@@ -51,6 +51,12 @@ Here I demonstrate how to catch Shopee API, you could use the same technique for
 
 ### Delegation Pattern
 
+After we know how to make an API request to Shopee (or Artstation, 🔥Tinder,...), we could build the class named `APIService` to make the request. We want the class automatically handle the data after it has been received from the request, even success or not. The problem is where we handle the data and where we make the request should not be in the same class, and the same file. The Delegation pattern is the answer! It helps the code be clear. So the pipeline is:
+
+Request (`APIService`) ---Success--> Handle (`DataCrawler.updateDataWhenSuccess()`) -> Request (`APIService`)
+
+Request (`APIService`) ---Error--> Handle (`DataCrawler.getDataError()`)
+
 ## Structure
 
 - APIService
