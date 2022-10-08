@@ -88,7 +88,9 @@ Go to the Artstation [folder](application/artstation).
 
 ### Tinder
 
-Should I publish it 🤔
+There are some scenarios you need the Tinder crawl tool. Mostly while you have thousands of matches waiting for you to text them on Tinder.
+
+I will publish the code later 🤔
 
 ### Pexels
 
