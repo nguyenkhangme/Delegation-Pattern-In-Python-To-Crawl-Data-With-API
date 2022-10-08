@@ -10,6 +10,7 @@
 
 - [Delegation Pattern In Python To Crawl Data With API](#delegation-pattern-in-python-to-crawl-data-with-api)
   - [The problem it solved](#the-problem-it-solved)
+  - [Why these demos](#why-these-demos)
   - [Knowledge Base](#knowledge-base)
     - [Catch that API call](#catch-that-api-call)
     - [Delegation Pattern](#delegation-pattern)
@@ -27,6 +28,12 @@
 - Code be clear
 - Collect any possible data you want, even Tinder! (check robots.txt, the license page,... to make sure you are not violent with any rules)
 - Wide range use
+
+## Why these demos
+
+- Artstation & Pexels: Useful on computer vision tasks
+- Shopee: See [this repo](https://github.com/comphilano/ds_final/blob/main/)
+- Tinder: Know yourself better, see [more](#tinder)
 
 ## Knowledge Base
 
